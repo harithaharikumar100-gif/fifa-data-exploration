@@ -102,4 +102,4 @@ The objective of this project is to analyze player data and discover meaningful 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/harithaharikumar100-gif/fifa-2019-eda.git
+git clone https://github.com/harithaharikumar100-gif/fifa-data-exploration.git
